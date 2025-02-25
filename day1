@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=title, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Welcome</h1>
+    <h2>welcome</h2>
+    <h3>welcome</h3>
+    <h4>welcome</h4>
+    <h5>welcome</h5>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+         Dolores unde at eligendi iusto eveniet deleniti, nulla 
+         nesciunt soluta itaque quam fugit pariatur voluptatum perspiciatis 
+        consequatur repellendus qui praesentium repellat sapiente.</p>
+        <img src="image.itc.webp"alt=""/>
+</head>
+<body></body>
+</html>
